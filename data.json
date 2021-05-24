@@ -1,0 +1,26 @@
+{
+    "company": [
+      { "id": 1, "name": "Ceg 1", "cui": "typicode" },
+      { "id": 2, "name": "Ceg 2", "cui": "typicode" },
+      { "id": 3, "name": "Ceg 3", "cui": "typicode" },
+      { "id": 4, "name": "Ceg 4", "cui": "typicode" },
+      { "id": 5, "name": "Ceg 5", "cui": "typicode" },
+      { "id": 6, "name": "Ceg 6", "cui": "typicode" },
+      { "id": 7, "name": "Ceg 7", "cui": "typicode" },
+      { "id": 8, "name": "Ceg 8", "cui": "typicode" },
+      { "id": 9, "name": "Ceg 9", "cui": "typicode" },
+      { "id": 10, "name": "Ceg 10", "cui": "typicode" },
+      { "id": 11, "name": "Ceg 11", "cui": "typicode" },
+      { "id": 12, "name": "Ceg 12", "cui": "typicode" },
+      { "id": 13, "name": "Ceg 13", "cui": "typicode" },
+      { "id": 14, "name": "Ceg 14", "cui": "typicode" },
+      { "id": 15, "name": "Ceg 15", "cui": "typicode" },
+      { "id": 16, "name": "Ceg 16", "cui": "typicode" },
+      { "id": 17, "name": "Ceg 17", "cui": "typicode" },
+      { "id": 18, "name": "Ceg 18", "cui": "typicode" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+  }

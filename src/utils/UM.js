@@ -1,0 +1,1 @@
+export const UMList = ["KG", "BUC", "M", "STIC.", "SET","SAC","TIP", "PAC", "PET", "CUT.", "BAX", "DOZA", "CART"];

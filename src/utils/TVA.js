@@ -1,0 +1,1 @@
+export const TVAList = [9, 19];
